@@ -2,3 +2,36 @@
     box-sizing: border-box;
 }
 
+h2 {
+    width: 200px;
+    height:200px;
+    background-color: pink;
+    padding:50px;
+    border:5px solid red;
+    margin:100px;
+}
+
+img {
+    width:200px;
+    border-style: dotted;
+    padding: 5px;
+    margin: 185px;
+
+}
+
+h1 {
+    background-color:darkcyan;
+    text-align: center;
+    padding:50px;
+    border:25px solid rgb(42, 134, 255);
+    border-style: dotted;
+    
+}
+
+p {
+    padding:50px
+    border-color:blue;
+    border:25px;
+
+}
+
